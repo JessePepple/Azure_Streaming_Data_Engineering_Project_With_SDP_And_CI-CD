@@ -99,7 +99,6 @@ KPIs & Metrics:
 Data quality & cleaning: 100% of nulls handled and duplicates removed using modular Python transformations
 SCD Type 1 accuracy: 100% of operational changes captured automatically via AUTO CDC API
 OBT readiness: Single consolidated table accessible for data scientists, ML engineers, and analysts
-Query performance: Streaming table optimized with AUTO OPTIMIZE and ZORDER BY ride_id, improving query speed by 40%
 Data integrity: 0% data loss during transformations and continuous updates
 
 Result Statement:
@@ -171,7 +170,6 @@ KPIs & Metrics:
 Data modeling accuracy: 100% of dimension tables correctly implemented with SCD Type 2, and fact table with SCD Type 1
 CDC automation: All operational and historical changes captured automatically via the automated CDC flow
 Data quality & validation: 100% of data passed quality checks defined in Spark Declarative Pipelines before loading into Gold
-Query performance: Tables optimized with Z-ordering on primary keys, improving analytical query speed by 35–40%
 Data integrity: 0% data loss during transformations, updates, and loading into SQL Data Warehouse
 
 Result Statement:
