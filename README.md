@@ -232,7 +232,6 @@ Goal: Enable seamless reporting and analytics with enterprise tools.
 KPIs & Metrics:
 Direct BI access: Data analysts connected to Databricks Partner Connect → eliminated dependence on SQL warehouses for reporting
 Integration with Synapse Data Warehouse: Curated datasets available for enterprise-wide analytics
-Reporting latency: Reduced from hours to near real-time dashboards (if applicable)
 End-user adoption: BI team able to query datasets without engineering intervention
 Result Statement:
 Delivered self-service analytics by providing business users with direct access to curated datasets, enabling timely and accurate sales insights.
